@@ -1,0 +1,107 @@
+[
+    {
+        "maPhanLoai": "PL001",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Bo mạch chủ"
+    },
+    {
+        "maPhanLoai": "PL002",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "CPU"
+    },
+    {
+        "maPhanLoai": "PL003",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "RAM"
+    },
+    {
+        "maPhanLoai": "PL004",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Ổ cứng"
+    },
+    {
+        "maPhanLoai": "PL005",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Nguồn PSU"
+    },
+    {
+        "maPhanLoai": "PL006",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Card đồ họa"
+    },
+    {
+        "maPhanLoai": "PL007",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Quạt CPU"
+    },
+    {
+        "maPhanLoai": "PL008",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Tản nhiệt GPU"
+    },
+    {
+        "maPhanLoai": "PL009",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Pin CMOS"
+    },
+    {
+        "maPhanLoai": "PL010",
+        "tenPhanLoaiChinh": "Phần cứng",
+        "tenPhanLoaiCuThe": "Khe cắm PCIe"
+    },
+    {
+        "maPhanLoai": "PL011",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Màn hình"
+    },
+    {
+        "maPhanLoai": "PL012",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Bàn phím"
+    },
+    {
+        "maPhanLoai": "PL013",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Chuột"
+    },
+    {
+        "maPhanLoai": "PL014",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "USB"
+    },
+    {
+        "maPhanLoai": "PL015",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Webcam"
+    },
+    {
+        "maPhanLoai": "PL016",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Máy in"
+    },
+    {
+        "maPhanLoai": "PL017",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Loa"
+    },
+    {
+        "maPhanLoai": "PL018",
+        "tenPhanLoaiChinh": "Thiết bị ngoại vi",
+        "tenPhanLoaiCuThe": "Tai nghe"
+    },
+    {
+        "maPhanLoai": "PL019",
+        "tenPhanLoaiChinh": "Phần mềm máy tính",
+        "tenPhanLoaiCuThe": "Hệ điều hành"
+    },
+    {
+        "maPhanLoai": "PL020",
+        "tenPhanLoaiChinh": "Phần mềm máy tính",
+        "tenPhanLoaiCuThe": "Driver"
+    },
+    {
+        "maPhanLoai": "PL021",
+        "tenPhanLoaiChinh": "Phần mềm máy tính",
+        "tenPhanLoaiCuThe": "Ứng dụng"
+    }
+]

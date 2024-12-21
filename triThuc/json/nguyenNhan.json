@@ -1,0 +1,362 @@
+[
+    {
+        "maNguyenNhan": "NN001",
+        "tenNguyenNhan": "Lỗi nguồn hoặc mainboard",
+        "moTaNguyenNhan": "Nguồn không cấp đủ điện hoặc mainboard bị hỏng, gây ra hiện tượng không khởi động được.",
+        "cachSuaChua": "Kiểm tra và thay thế nguồn cấp hoặc mainboard bị hỏng."
+    },
+    {
+        "maNguyenNhan": "NN002",
+        "tenNguyenNhan": "Lỗi card màn hình hoặc cáp kết nối",
+        "moTaNguyenNhan": "Card màn hình không hoạt động, dây cáp bị lỗi hoặc kết nối không đúng, dẫn đến màn hình không hiển thị.",
+        "cachSuaChua": "Kiểm tra và thay thế card màn hình, cáp kết nối hoặc cổng kết nối."
+    },
+    {
+        "maNguyenNhan": "NN003",
+        "tenNguyenNhan": "Lỗi hệ điều hành",
+        "moTaNguyenNhan": "File hệ điều hành bị hỏng do virus, lỗi cập nhật hoặc cấu hình không chính xác, gây treo hoặc lỗi khởi động.",
+        "cachSuaChua": "Cài lại hệ điều hành hoặc khôi phục hệ thống từ bản sao lưu."
+    },
+    {
+        "maNguyenNhan": "NN004",
+        "tenNguyenNhan": "Xung đột phần mềm",
+        "moTaNguyenNhan": "Hai phần mềm không tương thích, chiếm dụng tài nguyên hoặc gây lỗi trong quá trình hoạt động.",
+        "cachSuaChua": "Gỡ bỏ phần mềm xung đột hoặc cập nhật phần mềm để khắc phục sự cố."
+    },
+    {
+        "maNguyenNhan": "NN005",
+        "tenNguyenNhan": "Lỗi driver mạng",
+        "moTaNguyenNhan": "Driver mạng bị lỗi, không tương thích, hoặc chưa được cài đặt đúng, dẫn đến không kết nối internet.",
+        "cachSuaChua": "Cài lại driver mạng hoặc cài driver tương thích mới nhất."
+    },
+    {
+        "maNguyenNhan": "NN006",
+        "tenNguyenNhan": "Lỗi driver hoặc cổng kết nối USB",
+        "moTaNguyenNhan": "Driver không được cài đặt đúng hoặc cổng USB bị hỏng, gây ra lỗi thiết bị ngoại vi không nhận diện.",
+        "cachSuaChua": "Cài lại driver USB hoặc thay thế cổng USB nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN007",
+        "tenNguyenNhan": "Lỗi bộ nhớ RAM",
+        "moTaNguyenNhan": "RAM bị lỗi hoặc không tương thích, gây màn hình xanh hoặc thiết bị tự khởi động lại.",
+        "cachSuaChua": "Thay thế RAM bị hỏng hoặc kiểm tra lại sự tương thích của bộ nhớ."
+    },
+    {
+        "maNguyenNhan": "NN008",
+        "tenNguyenNhan": "Lỗi ổ cứng hoặc SSD",
+        "moTaNguyenNhan": "Ổ cứng bị bad sector hoặc SSD hỏng, dẫn đến mất dữ liệu hoặc hệ điều hành không thể khởi động.",
+        "cachSuaChua": "Kiểm tra ổ cứng hoặc SSD và thay thế nếu bị hỏng."
+    },
+    {
+        "maNguyenNhan": "NN009",
+        "tenNguyenNhan": "Lỗi quạt hoặc tản nhiệt CPU/GPU",
+        "moTaNguyenNhan": "Quạt không hoạt động hoặc tản nhiệt không hiệu quả, gây quá nhiệt và tự động tắt máy.",
+        "cachSuaChua": "Kiểm tra quạt và tản nhiệt, làm sạch hoặc thay thế nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN010",
+        "tenNguyenNhan": "Lỗi kết nối mạng",
+        "moTaNguyenNhan": "Modem, router, hoặc dây mạng gặp sự cố, gây mất kết nối mạng hoặc tốc độ chậm.",
+        "cachSuaChua": "Kiểm tra lại kết nối mạng, thay thế modem, router, hoặc dây cáp nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN011",
+        "tenNguyenNhan": "Lỗi phần cứng ngoại vi",
+        "moTaNguyenNhan": "Thiết bị ngoại vi như chuột, bàn phím hoặc màn hình bị lỗi, không tương thích, hoặc kết nối sai.",
+        "cachSuaChua": "Kiểm tra kết nối hoặc thay thế thiết bị ngoại vi bị lỗi."
+    },
+    {
+        "maNguyenNhan": "NN012",
+        "tenNguyenNhan": "Virus hoặc mã độc",
+        "moTaNguyenNhan": "Virus hoặc mã độc làm hệ thống bị lỗi, mất dữ liệu hoặc hiệu suất giảm.",
+        "cachSuaChua": "Quét và loại bỏ virus/mã độc bằng phần mềm diệt virus."
+    },
+    {
+        "maNguyenNhan": "NN013",
+        "tenNguyenNhan": "Cấu hình BIOS hoặc UEFI sai",
+        "moTaNguyenNhan": "Cấu hình BIOS/UEFI không đúng, gây lỗi khi khởi động hoặc không nhận diện thiết bị phần cứng.",
+        "cachSuaChua": "Cập nhật hoặc cấu hình lại BIOS/UEFI chính xác."
+    },
+    {
+        "maNguyenNhan": "NN014",
+        "tenNguyenNhan": "Lỗi pin CMOS",
+        "moTaNguyenNhan": "Pin CMOS hết, gây mất thời gian hệ thống và cấu hình BIOS.",
+        "cachSuaChua": "Thay pin CMOS mới."
+    },
+    {
+        "maNguyenNhan": "NN015",
+        "tenNguyenNhan": "Xung đột phần cứng",
+        "moTaNguyenNhan": "Phần cứng không tương thích hoặc lắp đặt không chính xác, gây lỗi khi khởi động hoặc hoạt động.",
+        "cachSuaChua": "Kiểm tra lại phần cứng, tháo và lắp lại các thiết bị cho đúng."
+    },
+    {
+        "maNguyenNhan": "NN016",
+        "tenNguyenNhan": "Lỗi bộ cấp nguồn (PSU)",
+        "moTaNguyenNhan": "Bộ cấp nguồn không ổn định, không cung cấp đủ điện, gây tắt máy hoặc không khởi động được.",
+        "cachSuaChua": "Kiểm tra và thay thế bộ cấp nguồn PSU nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN017",
+        "tenNguyenNhan": "Lỗi kết nối ổ cứng",
+        "moTaNguyenNhan": "Cáp SATA hoặc cáp nguồn ổ cứng bị lỗi hoặc không gắn chặt, gây mất kết nối hoặc lỗi đọc dữ liệu.",
+        "cachSuaChua": "Kiểm tra và thay thế cáp kết nối, gắn lại ổ cứng chặt hơn."
+    },
+    {
+        "maNguyenNhan": "NN018",
+        "tenNguyenNhan": "Quá tải tài nguyên",
+        "moTaNguyenNhan": "CPU, RAM hoặc ổ đĩa bị quá tải do các ứng dụng chạy nền, gây hệ thống bị chậm hoặc treo.",
+        "cachSuaChua": "Tắt các ứng dụng không cần thiết, nâng cấp phần cứng nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN019",
+        "tenNguyenNhan": "Lỗi cảm biến nhiệt",
+        "moTaNguyenNhan": "Cảm biến nhiệt không chính xác, gây tự động tắt máy để bảo vệ phần cứng.",
+        "cachSuaChua": "Kiểm tra và thay thế cảm biến nhiệt nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN020",
+        "tenNguyenNhan": "Lỗi màn hình hoặc cáp nguồn màn hình",
+        "moTaNguyenNhan": "Màn hình bị hỏng hoặc cáp nguồn màn hình không ổn định, gây lỗi hiển thị.",
+        "cachSuaChua": "Kiểm tra và thay thế màn hình hoặc cáp nguồn màn hình."
+    },
+    {
+        "maNguyenNhan": "NN021",
+        "tenNguyenNhan": "Lỗi bộ nhớ cache hoặc CPU",
+        "moTaNguyenNhan": "CPU hoặc bộ nhớ cache bị lỗi, gây màn hình xanh hoặc lỗi hiệu suất.",
+        "cachSuaChua": "Thay thế CPU hoặc kiểm tra lại bộ nhớ cache và sửa chữa nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN022",
+        "tenNguyenNhan": "Lỗi ổ quang (nếu có)",
+        "moTaNguyenNhan": "Ổ đĩa quang không hoạt động, không đọc được đĩa hoặc gây nhiễu khi khởi động.",
+        "cachSuaChua": "Thay thế hoặc sửa chữa ổ quang."
+    },
+    {
+        "maNguyenNhan": "NN023",
+        "tenNguyenNhan": "Lỗi tệp hệ thống",
+        "moTaNguyenNhan": "Các tệp quan trọng của hệ điều hành bị mất hoặc bị sửa đổi, gây lỗi khi khởi động hoặc hoạt động.",
+        "cachSuaChua": "Khôi phục các tệp hệ thống từ bản sao lưu hoặc cài lại hệ điều hành."
+    },
+    {
+        "maNguyenNhan": "NN024",
+        "tenNguyenNhan": "Lỗi cấu hình mạng",
+        "moTaNguyenNhan": "Cài đặt mạng không chính xác (IP, DNS, gateway), gây mất kết nối internet.",
+        "cachSuaChua": "Kiểm tra và cấu hình lại các thiết lập mạng."
+    },
+    {
+        "maNguyenNhan": "NN025",
+        "tenNguyenNhan": "Lỗi cập nhật phần mềm",
+        "moTaNguyenNhan": "Cập nhật không thành công hoặc cài đặt bản vá lỗi không ổn định, gây lỗi hệ điều hành hoặc phần mềm.",
+        "cachSuaChua": "Cập nhật lại phần mềm hoặc cài đặt bản vá lỗi mới nhất."
+    },
+    {
+        "maNguyenNhan": "NN026",
+        "tenNguyenNhan": "Lỗi driver đồ họa",
+        "moTaNguyenNhan": "Driver đồ họa không tương thích hoặc bị lỗi, gây màn hình đen hoặc hiệu suất đồ họa giảm.",
+        "cachSuaChua": "Cài lại driver đồ họa hoặc cập nhật driver mới nhất."
+    },
+    {
+        "maNguyenNhan": "NN027",
+        "tenNguyenNhan": "Lỗi nguồn điện bên ngoài",
+        "moTaNguyenNhan": "Điện áp không ổn định hoặc mất điện đột ngột, gây hỏng thiết bị hoặc tắt máy.",
+        "cachSuaChua": "Sử dụng bộ nguồn ổn định hoặc thay thế thiết bị bị hỏng."
+    },
+    {
+        "maNguyenNhan": "NN028",
+        "tenNguyenNhan": "Lỗi phân vùng ổ đĩa",
+        "moTaNguyenNhan": "Phân vùng ổ đĩa bị lỗi hoặc không khớp định dạng, gây mất dữ liệu hoặc không khởi động được.",
+        "cachSuaChua": "Sử dụng công cụ sửa chữa phân vùng ổ đĩa hoặc khôi phục dữ liệu."
+    },
+    {
+        "maNguyenNhan": "NN029",
+        "tenNguyenNhan": "Lỗi chế độ khởi động",
+        "moTaNguyenNhan": "Cấu hình khởi động sai (Legacy/UEFI), không nhận diện ổ đĩa hoặc hệ điều hành.",
+        "cachSuaChua": "Cập nhật cài đặt khởi động trong BIOS/UEFI cho phù hợp."
+    },
+    {
+        "maNguyenNhan": "NN030",
+        "tenNguyenNhan": "Lỗi hệ thống bảo mật",
+        "moTaNguyenNhan": "Phần mềm bảo mật can thiệp sai hoặc cấu hình sai, gây lỗi hệ thống hoặc mất quyền truy cập.",
+        "cachSuaChua": "Kiểm tra và cấu hình lại phần mềm bảo mật đúng cách."
+    },
+    {
+        "maNguyenNhan": "NN031",
+        "tenNguyenNhan": "Lỗi phần cứng mạng",
+        "moTaNguyenNhan": "Card mạng (Ethernet hoặc Wi-Fi) bị lỗi, không hoạt động hoặc hiệu suất kém.",
+        "cachSuaChua": "Thay thế card mạng hoặc kiểm tra lại kết nối mạng."
+    },
+    {
+        "maNguyenNhan": "NN032",
+        "tenNguyenNhan": "Lỗi giao thức mạng",
+        "moTaNguyenNhan": "Xung đột giao thức hoặc cấu hình giao thức sai, gây lỗi kết nối mạng.",
+        "cachSuaChua": "Kiểm tra và cấu hình lại giao thức mạng."
+    },
+    {
+        "maNguyenNhan": "NN033",
+        "tenNguyenNhan": "Lỗi thiết bị lưu trữ di động",
+        "moTaNguyenNhan": "USB, ổ cứng di động hoặc thẻ nhớ bị lỗi hoặc không tương thích, gây lỗi khi sử dụng.",
+        "cachSuaChua": "Kiểm tra lại thiết bị lưu trữ hoặc thay thế thiết bị bị lỗi."
+    },
+    {
+        "maNguyenNhan": "NN034",
+        "tenNguyenNhan": "Lỗi cập nhật BIOS/UEFI",
+        "moTaNguyenNhan": "Cập nhật BIOS/UEFI không thành công, gây lỗi khởi động hoặc mất chức năng hệ thống.",
+        "cachSuaChua": "Cập nhật lại BIOS/UEFI hoặc khôi phục lại bản BIOS/UEFI ổn định."
+    },
+    {
+        "maNguyenNhan": "NN035",
+        "tenNguyenNhan": "Lỗi mã hóa dữ liệu",
+        "moTaNguyenNhan": "Mã hóa không thành công hoặc mất khóa, gây không thể truy cập dữ liệu.",
+        "cachSuaChua": "Khôi phục dữ liệu từ bản sao lưu hoặc giải mã lại với khóa đúng."
+    },
+    {
+        "maNguyenNhan": "NN036",
+        "tenNguyenNhan": "Lỗi cảm biến quạt làm mát",
+        "moTaNguyenNhan": "Cảm biến quạt không hoạt động đúng, gây quá nhiệt do quạt không chạy hoặc chạy không đủ công suất.",
+        "cachSuaChua": "Thay thế cảm biến quạt hoặc kiểm tra lại quạt làm mát."
+    },
+    {
+        "maNguyenNhan": "NN037",
+        "tenNguyenNhan": "Lỗi bộ lưu điện (UPS)",
+        "moTaNguyenNhan": "Bộ lưu điện không cấp đủ điện hoặc mất khả năng duy trì nguồn trong các trường hợp mất điện.",
+        "cachSuaChua": "Kiểm tra và thay thế bộ lưu điện UPS nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN038",
+        "tenNguyenNhan": "Lỗi phần mềm quản lý hệ thống",
+        "moTaNguyenNhan": "Công cụ quản lý hệ thống (như phần mềm giám sát) bị lỗi, gây thông báo sai hoặc ảnh hưởng hiệu suất.",
+        "cachSuaChua": "Cập nhật hoặc thay thế phần mềm quản lý hệ thống."
+    },
+    {
+        "maNguyenNhan": "NN039",
+        "tenNguyenNhan": "Lỗi thiết lập BIOS/UEFI",
+        "moTaNguyenNhan": "Cài đặt BIOS sai (như tắt chức năng cần thiết hoặc cấu hình không phù hợp), gây lỗi khởi động.",
+        "cachSuaChua": "Cập nhật lại cài đặt BIOS/UEFI cho phù hợp."
+    },
+    {
+        "maNguyenNhan": "NN040",
+        "tenNguyenNhan": "Lỗi giao tiếp phần cứng",
+        "moTaNguyenNhan": "Các thiết bị ngoại vi hoặc phần cứng kết nối qua PCI/PCIe không tương thích hoặc bị lỗi giao tiếp.",
+        "cachSuaChua": "Kiểm tra lại phần cứng kết nối, thay thế thiết bị nếu cần."
+    },
+    {
+        "maNguyenNhan": "NN041",
+        "tenNguyenNhan": "Lỗi ổ SSD",
+        "moTaNguyenNhan": "Ổ SSD bị hỏng hoặc có bad sector, gây chậm trễ hoặc lỗi truy xuất dữ liệu.",
+        "cachSuaChua": "Thay thế ổ SSD hoặc sửa chữa ổ SSD nếu có thể."
+    },
+    {
+        "maNguyenNhan": "NN042",
+        "tenNguyenNhan": "Lỗi bo mạch chủ (Mainboard)",
+        "moTaNguyenNhan": "Mạch chủ có lỗi hoặc không tương thích với một số linh kiện, gây lỗi tổng thể.",
+        "cachSuaChua": "Thay thế bo mạch chủ hoặc kiểm tra lại sự tương thích."
+    },
+    {
+        "maNguyenNhan": "NN043",
+        "tenNguyenNhan": "Lỗi phần mềm chống virus",
+        "moTaNguyenNhan": "Phần mềm chống virus hoạt động sai, ngăn cản truy cập vào file hoặc gây xung đột hệ thống.",
+        "cachSuaChua": "Cập nhật lại phần mềm diệt virus hoặc gỡ bỏ phần mềm này."
+    },
+    {
+        "maNguyenNhan": "NN044",
+        "tenNguyenNhan": "Lỗi thiết lập ứng dụng",
+        "moTaNguyenNhan": "Cấu hình ứng dụng không chính xác hoặc không tương thích với hệ điều hành, gây không thể sử dụng.",
+        "cachSuaChua": "Cập nhật hoặc cấu hình lại ứng dụng cho phù hợp."
+    },
+    {
+        "maNguyenNhan": "NN045",
+        "tenNguyenNhan": "Lỗi đồng bộ hóa dữ liệu",
+        "moTaNguyenNhan": "Lỗi xảy ra khi đồng bộ hóa dữ liệu giữa các thiết bị hoặc dịch vụ đám mây, gây mất dữ liệu hoặc xung đột.",
+        "cachSuaChua": "Kiểm tra lại cài đặt đồng bộ, khôi phục dữ liệu từ bản sao lưu."
+    },
+    {
+        "maNguyenNhan": "NN046",
+        "tenNguyenNhan": "Lỗi firmware thiết bị ngoại vi",
+        "moTaNguyenNhan": "Firmware trên các thiết bị ngoại vi (chuột, bàn phím, máy in) bị lỗi hoặc không tương thích.",
+        "cachSuaChua": "Cập nhật hoặc thay thế firmware trên thiết bị ngoại vi."
+    },
+    {
+        "maNguyenNhan": "NN047",
+        "tenNguyenNhan": "Lỗi giao diện kết nối mạng",
+        "moTaNguyenNhan": "Cổng mạng bị lỗi hoặc giao tiếp không ổn định do hỏng hóc vật lý hoặc xung đột phần mềm.",
+        "cachSuaChua": "Kiểm tra lại cổng kết nối mạng hoặc thay thế thiết bị liên quan."
+    },
+    {
+        "maNguyenNhan": "NN048",
+        "tenNguyenNhan": "Lỗi sao lưu dữ liệu",
+        "moTaNguyenNhan": "Quá trình sao lưu thất bại hoặc không đầy đủ, gây mất dữ liệu hoặc không thể khôi phục.",
+        "cachSuaChua": "Kiểm tra lại cấu hình sao lưu, thực hiện sao lưu lại từ đầu."
+    },
+    {
+        "maNguyenNhan": "NN049",
+        "tenNguyenNhan": "Lỗi hệ thống làm mát",
+        "moTaNguyenNhan": "Hệ thống làm mát không đủ hiệu suất do bụi bẩn hoặc hỏng hóc, gây quá nhiệt và giảm hiệu suất.",
+        "cachSuaChua": "Làm sạch hệ thống làm mát hoặc thay thế các bộ phận làm mát bị hỏng."
+    },
+    {
+        "maNguyenNhan": "NN050",
+        "tenNguyenNhan": "Lỗi mô-đun RAM",
+        "moTaNguyenNhan": "RAM bị lỗi hoặc không tương thích với bo mạch chủ, gây lỗi khởi động hoặc màn hình xanh.",
+        "cachSuaChua": "Thay RAM hoặc kiểm tra lại sự tương thích với bo mạch chủ."
+    },
+    {
+        "maNguyenNhan": "NN051",
+        "tenNguyenNhan": "Lỗi đăng nhập hệ thống",
+        "moTaNguyenNhan": "Thông tin đăng nhập hoặc tài khoản bị lỗi, không thể truy cập hệ điều hành hoặc phần mềm.",
+        "cachSuaChua": "Khôi phục mật khẩu hoặc tạo tài khoản mới."
+    },
+    {
+        "maNguyenNhan": "NN052",
+        "tenNguyenNhan": "Lỗi bảo mật phần cứng",
+        "moTaNguyenNhan": "TPM, khóa bảo mật hoặc thiết bị bảo mật phần cứng bị lỗi, gây cản trở hoạt động hệ thống.",
+        "cachSuaChua": "Kiểm tra và thay thế các thiết bị bảo mật phần cứng."
+    },
+    {
+        "maNguyenNhan": "NN053",
+        "tenNguyenNhan": "Lỗi cơ học ổ cứng HDD",
+        "moTaNguyenNhan": "Ổ HDD bị lỗi cơ học (đầu đọc, motor, đĩa từ), gây mất dữ liệu hoặc không thể truy cập dữ liệu.",
+        "cachSuaChua": "Thay thế ổ cứng HDD hoặc phục hồi dữ liệu từ ổ cứng khác."
+    },
+    {
+        "maNguyenNhan": "NN054",
+        "tenNguyenNhan": "Lỗi ánh xạ bộ nhớ",
+        "moTaNguyenNhan": "Lỗi trong việc ánh xạ tài nguyên bộ nhớ giữa phần mềm và phần cứng, gây xung đột hoặc lỗi hiệu suất.",
+        "cachSuaChua": "Kiểm tra lại cấu hình bộ nhớ hoặc thay thế phần cứng bị lỗi."
+    },
+    {
+        "maNguyenNhan": "NN055",
+        "tenNguyenNhan": "Lỗi phần cứng âm thanh",
+        "moTaNguyenNhan": "Card âm thanh hoặc loa bị lỗi, không nhận diện hoặc không phát âm thanh đúng cách.",
+        "cachSuaChua": "Kiểm tra và thay thế card âm thanh hoặc loa."
+    },
+    {
+        "maNguyenNhan": "NN056",
+        "tenNguyenNhan": "Lỗi cấu hình đa màn hình",
+        "moTaNguyenNhan": "Cài đặt đa màn hình không đúng, gây lỗi hiển thị hoặc không nhận diện màn hình phụ.",
+        "cachSuaChua": "Cấu hình lại các cài đặt đa màn hình trong hệ điều hành."
+    },
+    {
+        "maNguyenNhan": "NN057",
+        "tenNguyenNhan": "Lỗi cổng Ethernet",
+        "moTaNguyenNhan": "Cổng Ethernet bị hỏng hoặc không hoạt động, gây mất kết nối internet.",
+        "cachSuaChua": "Thay thế hoặc sửa chữa cổng Ethernet."
+    },
+    {
+        "maNguyenNhan": "NN058",
+        "tenNguyenNhan": "Lỗi pin CMOS",
+        "moTaNguyenNhan": "Pin CMOS hết hoặc bị lỗi, gây mất thiết lập BIOS/UEFI và sai thời gian hệ thống.",
+        "cachSuaChua": "Thay pin CMOS mới."
+    },
+    {
+        "maNguyenNhan": "NN059",
+        "tenNguyenNhan": "Lỗi ứng dụng nền",
+        "moTaNguyenNhan": "Các ứng dụng chạy nền gây tiêu tốn tài nguyên hoặc xung đột với các ứng dụng chính.",
+        "cachSuaChua": "Tắt các ứng dụng nền không cần thiết hoặc tối ưu hóa chúng."
+    },
+    {
+        "maNguyenNhan": "NN060",
+        "tenNguyenNhan": "Lỗi dịch vụ hệ điều hành",
+        "moTaNguyenNhan": "Dịch vụ hệ điều hành không hoạt động đúng, gây mất chức năng hoặc lỗi hiệu năng.",
+        "cachSuaChua": "Khởi động lại dịch vụ hệ điều hành hoặc sửa chữa dịch vụ bị lỗi."
+    }
+]
