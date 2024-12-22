@@ -1,0 +1,710 @@
+[
+  {
+    "maTrieuChung": "TC001",
+    "tenTrieuChung": "Máy không bật hoặc không khởi động",
+    "maPhanLoai": "PL001",
+    "maNguyenNhan": ["NN001", "NN042", "NN052"]
+  },
+  {
+    "maTrieuChung": "TC002",
+    "tenTrieuChung": "Màn hình không hiển thị",
+    "maPhanLoai": "PL011",
+    "maNguyenNhan": ["NN002", "NN056", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC003",
+    "tenTrieuChung": "Hệ điều hành không tải được",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN039", "NN052"]
+  },
+  {
+    "maTrieuChung": "TC004",
+    "tenTrieuChung": "Máy tính chạy chậm hoặc giật",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN004", "NN059", "NN046", "NN044"]
+  },
+  {
+    "maTrieuChung": "TC005",
+    "tenTrieuChung": "Máy tính bị tắt đột ngột",
+    "maPhanLoai": "PL005",
+    "maNguyenNhan": ["NN001", "NN036", "NN049"]
+  },
+  {
+    "maTrieuChung": "TC006",
+    "tenTrieuChung": "Lỗi màn hình xanh hoặc đen",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN002", "NN050", "NN039", "NN030"]
+  },
+  {
+    "maTrieuChung": "TC007",
+    "tenTrieuChung": "Máy không kết nối được Internet",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC008",
+    "tenTrieuChung": "Thiết bị ngoại vi không hoạt động",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN046", "NN060", "NN047", "NN006"]
+  },
+  {
+    "maTrieuChung": "TC009",
+    "tenTrieuChung": "Không thể cài đặt hoặc gỡ bỏ phần mềm",
+    "maPhanLoai": "PL021",
+    "maNguyenNhan": ["NN004", "NN043", "NN044"]
+  },
+  {
+    "maTrieuChung": "TC010",
+    "tenTrieuChung": "Lỗi dữ liệu hoặc file bị mất/không tìm thấy",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN048", "NN053", "NN030", "NN055", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC011",
+    "tenTrieuChung": "Máy tính không nhận diện được thiết bị USB",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN006", "NN042", "NN052"]
+  },
+  {
+    "maTrieuChung": "TC012",
+    "tenTrieuChung": "Quá nhiệt hoặc quạt không hoạt động",
+    "maPhanLoai": "PL007",
+    "maNguyenNhan": ["NN036", "NN049", "NN001"]
+  },
+  {
+    "maTrieuChung": "TC013",
+    "tenTrieuChung": "Máy không bật sau khi tắt nguồn",
+    "maPhanLoai": "PL005",
+    "maNguyenNhan": ["NN001", "NN052", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC014",
+    "tenTrieuChung": "Không thể đăng nhập vào hệ thống",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN051", "NN003", "NN052"]
+  },
+  {
+    "maTrieuChung": "TC015",
+    "tenTrieuChung": "Lỗi màn hình hiển thị không rõ nét",
+    "maPhanLoai": "PL011",
+    "maNguyenNhan": ["NN002", "NN056", "NN050", "NN055"]
+  },
+  {
+    "maTrieuChung": "TC016",
+    "tenTrieuChung": "Máy không khởi động từ ổ cứng",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN030", "NN053", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC017",
+    "tenTrieuChung": "Không thể kết nối Wi-Fi hoặc mạng LAN",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC018",
+    "tenTrieuChung": "Máy không nhận diện màn hình phụ",
+    "maPhanLoai": "PL011",
+    "maNguyenNhan": ["NN056", "NN002"]
+  },
+  {
+    "maTrieuChung": "TC019",
+    "tenTrieuChung": "Máy không nhận diện ổ đĩa cứng",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN030", "NN042"]
+  },
+  {
+    "maTrieuChung": "TC020",
+    "tenTrieuChung": "Lỗi thời gian hệ thống",
+    "maPhanLoai": "PL009",
+    "maNguyenNhan": ["NN058", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC021",
+    "tenTrieuChung": "Lỗi driver không tương thích",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN006", "NN005", "NN043"]
+  },
+  {
+    "maTrieuChung": "TC022",
+    "tenTrieuChung": "Các ứng dụng hoặc hệ thống không phản hồi",
+    "maPhanLoai": "PL021",
+    "maNguyenNhan": ["NN004", "NN059", "NN060"]
+  },
+  {
+    "maTrieuChung": "TC023",
+    "tenTrieuChung": "Lỗi ổ đĩa hoặc file không truy cập được",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN048", "NN053", "NN030", "NN055"]
+  },
+  {
+    "maTrieuChung": "TC024",
+    "tenTrieuChung": "Lỗi kết nối mạng khi sử dụng VPN",
+    "maPhanLoai": "PL005",
+    "maNguyenNhan": ["NN047", "NN005", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC025",
+    "tenTrieuChung": "Không thể đồng bộ hóa dữ liệu",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN048", "NN053", "NN059", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC026",
+    "tenTrieuChung": "Không thể khởi động lại hệ thống",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN039", "NN003", "NN052"]
+  },
+  {
+    "maTrieuChung": "TC027",
+    "tenTrieuChung": "Máy tính bị nhiễu loạn âm thanh",
+    "maPhanLoai": "PL017",
+    "maNguyenNhan": ["NN055", "NN050", "NN002"]
+  },
+  {
+    "maTrieuChung": "TC028",
+    "tenTrieuChung": "Không thể kết nối Bluetooth",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN047", "NN046", "NN006"]
+  },
+  {
+    "maTrieuChung": "TC029",
+    "tenTrieuChung": "Máy không nhận diện thiết bị USB",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN006", "NN042", "NN052", "NN048"]
+  },
+  {
+    "maTrieuChung": "TC030",
+    "tenTrieuChung": "Hệ thống hoạt động không ổn định hoặc bị treo",
+    "maPhanLoai": "PL021",
+    "maNguyenNhan": ["NN004", "NN059", "NN046", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC031",
+    "tenTrieuChung": "Hệ thống không nhận dạng ổ đĩa cứng ngoại vi",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN042", "NN030", "NN053", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC032",
+    "tenTrieuChung": "Màn hình bị mờ hoặc không sắc nét",
+    "maPhanLoai": "PL011",
+    "maNguyenNhan": ["NN002", "NN050", "NN056", "NN055"]
+  },
+  {
+    "maTrieuChung": "TC033",
+    "tenTrieuChung": "Máy không nhận diện thiết bị ngoại vi khác",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN046", "NN047", "NN006"]
+  },
+  {
+    "maTrieuChung": "TC034",
+    "tenTrieuChung": "Cấu hình BIOS/UEFI không chính xác",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN039", "NN052", "NN058"]
+  },
+  {
+    "maTrieuChung": "TC035",
+    "tenTrieuChung": "Máy không tắt hoặc không khởi động lại",
+    "maPhanLoai": "PL007",
+    "maNguyenNhan": ["NN036", "NN049", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC036",
+    "tenTrieuChung": "Máy tính không nhận diện thiết bị mạng",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC037",
+    "tenTrieuChung": "Thời gian hệ thống không chính xác",
+    "maPhanLoai": "PL009",
+    "maNguyenNhan": ["NN058", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC038",
+    "tenTrieuChung": "Không thể thay đổi hoặc cập nhật hệ điều hành",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC039",
+    "tenTrieuChung": "Máy tính không nhận diện ổ đĩa cứng thứ cấp",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN030", "NN042", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC040",
+    "tenTrieuChung": "Lỗi khi sao lưu hoặc phục hồi dữ liệu",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN048", "NN053", "NN030", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC041",
+    "tenTrieuChung": "Lỗi kết nối mạng khi sử dụng VPN",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN047", "NN005", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC042",
+    "tenTrieuChung": "Phần mềm không thể cài đặt hoặc tải xuống",
+    "maPhanLoai": "PL021",
+    "maNguyenNhan": ["NN004", "NN043", "NN044"]
+  },
+  {
+    "maTrieuChung": "TC043",
+    "tenTrieuChung": "Máy tính không thể nhận diện hệ thống ảo",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN039", "NN052", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC044",
+    "tenTrieuChung": "Máy không nhận diện mạng LAN sau khi cài đặt",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC045",
+    "tenTrieuChung": "Máy tính không thể kết nối vào mạng Wi-Fi",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC046",
+    "tenTrieuChung": "Hệ thống bị lỗi khi cài đặt hoặc cập nhật phần mềm",
+    "maPhanLoai": "PL021",
+    "maNguyenNhan": ["NN004", "NN003", "NN043"]
+  },
+  {
+    "maTrieuChung": "TC047",
+    "tenTrieuChung": "Mạng Wi-Fi hoặc Ethernet không ổn định",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN005", "NN047", "NN057", "NN029"]
+  },
+  {
+    "maTrieuChung": "TC048",
+    "tenTrieuChung": "Thiết bị không nhận diện ổ đĩa mạng",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN030", "NN047", "NN058"]
+  },
+  {
+    "maTrieuChung": "TC049",
+    "tenTrieuChung": "Máy tính không thể tải cập nhật hệ điều hành",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN039", "NN004", "NN043"]
+  },
+  {
+    "maTrieuChung": "TC050",
+    "tenTrieuChung": "Máy tính không thể khởi động với ổ cứng ngoài",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN039", "NN053", "NN047", "NN030"]
+  },
+  {
+    "maTrieuChung": "TC051",
+    "tenTrieuChung": "Hệ thống bị treo khi chạy ứng dụng nặng",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN004", "NN056", "NN050", "NN059", "NN005"]
+  },
+  {
+    "maTrieuChung": "TC052",
+    "tenTrieuChung": "Màn hình hiển thị không đầy đủ hoặc bị giật",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN056", "NN055"]
+  },
+  {
+    "maTrieuChung": "TC053",
+    "tenTrieuChung": "Mạng không nhận diện hoặc mất kết nối sau khi khởi động lại",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN005", "NN047", "NN057", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC054",
+    "tenTrieuChung": "Máy tính không nhận dạng ổ cứng khi kết nối vào cổng USB",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN006", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC055",
+    "tenTrieuChung": "Máy tính không thể cập nhật firmware",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN046", "NN039", "NN003"]
+  },
+  {
+    "maTrieuChung": "TC056",
+    "tenTrieuChung": "Máy tính bị giảm hiệu suất đáng kể khi sử dụng nhiều ứng dụng cùng lúc",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC057",
+    "tenTrieuChung": "Máy không nhận diện các thiết bị ngoại vi như máy in, máy quét",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN046", "NN006", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC058",
+    "tenTrieuChung": "Lỗi khi thử kết nối từ xa qua mạng VPN",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN047", "NN005", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC059",
+    "tenTrieuChung": "Màn hình không sáng hoặc không nhận tín hiệu",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN053"]
+  },
+  {
+    "maTrieuChung": "TC060",
+    "tenTrieuChung": "Máy tính bị chậm khi mở nhiều tab trình duyệt",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC061",
+    "tenTrieuChung": "Máy tính không nhận diện thiết bị âm thanh",
+    "maPhanLoai": "PL017",
+    "maNguyenNhan": ["NN055", "NN050", "NN002"]
+  },
+  {
+    "maTrieuChung": "TC062",
+    "tenTrieuChung": "Máy tính không thể kết nối mạng Wi-Fi sau khi cài đặt lại",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC063",
+    "tenTrieuChung": "Máy tính khởi động chậm hoặc mất nhiều thời gian để vào hệ điều hành",
+    "maPhanLoai": "PL039",
+    "maNguyenNhan": ["NN039", "NN050", "NN004"]
+  },
+  {
+    "maTrieuChung": "TC064",
+    "tenTrieuChung": "Máy tính không thể chạy các ứng dụng yêu cầu phần cứng cao",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN002", "NN056"]
+  },
+  {
+    "maTrieuChung": "TC065",
+    "tenTrieuChung": "Máy tính bị lỗi kết nối khi chơi game trực tuyến",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN047", "NN005", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC066",
+    "tenTrieuChung": "Màn hình hiển thị lỗi đồ họa khi chơi game",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN056", "NN055"]
+  },
+  {
+    "maTrieuChung": "TC067",
+    "tenTrieuChung": "Máy tính không thể kết nối vào mạng LAN sau khi thay đổi cài đặt",
+    "maPhanLoai": "PL020",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC068",
+    "tenTrieuChung": "Hệ điều hành không thể khởi động sau khi cập nhật",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC069",
+    "tenTrieuChung": "Máy tính bị chậm khi sử dụng nhiều ứng dụng văn phòng",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC070",
+    "tenTrieuChung": "Máy tính không thể nhận diện ổ đĩa khi cắm vào cổng SATA",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN042", "NN053", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC071",
+    "tenTrieuChung": "Máy tính không thể truy cập vào ổ đĩa mạng",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN047", "NN005", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC072",
+    "tenTrieuChung": "Máy tính bị giật khi xem video hoặc phim online",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN056"]
+  },
+  {
+    "maTrieuChung": "TC073",
+    "tenTrieuChung": "Máy tính bị đứng khi chạy phần mềm chỉnh sửa đồ họa",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN004"]
+  },
+  {
+    "maTrieuChung": "TC074",
+    "tenTrieuChung": "Máy tính không thể kết nối với các thiết bị Bluetooth",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN046", "NN047", "NN006"]
+  },
+  {
+    "maTrieuChung": "TC075",
+    "tenTrieuChung": "Máy tính không thể đăng nhập vào hệ thống mạng",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN003"]
+  },
+  {
+    "maTrieuChung": "TC076",
+    "tenTrieuChung": "Hệ điều hành bị lỗi khi khởi động lại",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC077",
+    "tenTrieuChung": "Máy tính không nhận diện các ổ đĩa ngoài khi kết nối",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN047", "NN006", "NN053"]
+  },
+  {
+    "maTrieuChung": "TC078",
+    "tenTrieuChung": "Máy tính không thể cài đặt phần mềm từ đĩa cứng",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC079",
+    "tenTrieuChung": "Máy tính không thể xuất tín hiệu qua cổng HDMI",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN055", "NN056"]
+  },
+  {
+    "maTrieuChung": "TC080",
+    "tenTrieuChung": "Máy tính bị lỗi khi kết nối vào mạng LAN ngoài trời",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN047", "NN057", "NN005"]
+  },
+  {
+    "maTrieuChung": "TC081",
+    "tenTrieuChung": "Máy tính không nhận diện các thiết bị USB khi cắm vào",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN006", "NN047", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC082",
+    "tenTrieuChung": "Máy tính bị giật khi sử dụng ứng dụng văn phòng",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC083",
+    "tenTrieuChung": "Máy tính bị đơ khi mở nhiều cửa sổ trình duyệt",
+    "maPhanLoai": "PL003",
+    "maNguyenNhan": ["NN050", "NN004", "NN056", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC084",
+    "tenTrieuChung": "Máy tính không thể mở trang web nào",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC085",
+    "tenTrieuChung": "Máy tính không thể kết nối với máy chủ email",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059", "NN003"]
+  },
+  {
+    "maTrieuChung": "TC086",
+    "tenTrieuChung": "Máy tính không thể kết nối với máy in qua mạng",
+    "maPhanLoai": "PL016",
+    "maNguyenNhan": ["NN005", "NN047", "NN059", "NN053"]
+  },
+  {
+    "maTrieuChung": "TC087",
+    "tenTrieuChung": "Máy tính không nhận diện các ổ đĩa khi khởi động",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN039", "NN003"]
+  },
+  {
+    "maTrieuChung": "TC088",
+    "tenTrieuChung": "Máy tính không thể sử dụng các ứng dụng đồ họa yêu cầu phần cứng cao",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN002", "NN050", "NN056"]
+  },
+  {
+    "maTrieuChung": "TC089",
+    "tenTrieuChung": "Máy tính không thể kết nối đến mạng Wi-Fi khi thay đổi địa chỉ IP",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC090",
+    "tenTrieuChung": "Máy tính không thể kết nối đến mạng LAN khi thay đổi địa chỉ IP",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN057"]
+  },
+  {
+    "maTrieuChung": "TC091",
+    "tenTrieuChung": "Máy tính không nhận tín hiệu từ micrô",
+    "maPhanLoai": "PL018",
+    "maNguyenNhan": ["NN055", "NN002", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC092",
+    "tenTrieuChung": "Máy tính không thể nhận diện phần cứng sau khi cài đặt lại hệ điều hành",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN046", "NN004"]
+  },
+  {
+    "maTrieuChung": "TC093",
+    "tenTrieuChung": "Máy tính không thể khởi động lại sau khi cập nhật phần mềm",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC094",
+    "tenTrieuChung": "Máy tính gặp sự cố khi chạy phần mềm chỉnh sửa video",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN050", "NN002", "NN004"]
+  },
+  {
+    "maTrieuChung": "TC095",
+    "tenTrieuChung": "Máy tính không nhận tín hiệu từ loa ngoài",
+    "maPhanLoai": "PL017",
+    "maNguyenNhan": ["NN055", "NN002", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC096",
+    "tenTrieuChung": "Máy tính không nhận diện thiết bị chuột",
+    "maPhanLoai": "PL012",
+    "maNguyenNhan": ["NN006", "NN046", "NN047"]
+  },
+  {
+    "maTrieuChung": "TC097",
+    "tenTrieuChung": "Máy tính không thể mở trình duyệt web",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN003", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC098",
+    "tenTrieuChung": "Máy tính bị lag khi chơi game online",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN050", "NN002", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC099",
+    "tenTrieuChung": "Máy tính không thể kết nối với máy in Wi-Fi",
+    "maPhanLoai": "PL016",
+    "maNguyenNhan": ["NN005", "NN047", "NN059", "NN053"]
+  },
+  {
+    "maTrieuChung": "TC100",
+    "tenTrieuChung": "Máy tính bị treo khi chạy ứng dụng nặng",
+    "maPhanLoai": "PL006",
+    "maNguyenNhan": ["NN050", "NN002", "NN004", "NN056"]
+  },
+  {
+    "maTrieuChung": "TC101",
+    "tenTrieuChung": "Máy tính không thể nhận diện thiết bị âm thanh",
+    "maPhanLoai": "PL018",
+    "maNguyenNhan": ["NN055", "NN002", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC102",
+    "tenTrieuChung": "Máy tính không thể mở ứng dụng sau khi cài đặt",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN004", "NN003", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC103",
+    "tenTrieuChung": "Máy tính không thể kết nối đến mạng Wi-Fi sau khi thay đổi SSID",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC104",
+    "tenTrieuChung": "Máy tính không thể nhận diện USB khi cắm vào cổng khác",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN006", "NN047", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC105",
+    "tenTrieuChung": "Máy tính không thể cài đặt phần mềm từ file .exe",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC106",
+    "tenTrieuChung": "Máy tính không thể nhận diện màn hình thứ hai khi kết nối",
+    "maPhanLoai": "PL011",
+    "maNguyenNhan": ["NN056", "NN050", "NN002"]
+  },
+  {
+    "maTrieuChung": "TC107",
+    "tenTrieuChung": "Máy tính không thể nhận diện ổ đĩa cứng ngoài khi cắm vào",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN006", "NN047", "NN053"]
+  },
+  {
+    "maTrieuChung": "TC108",
+    "tenTrieuChung": "Máy tính không thể khởi động sau khi mất điện đột ngột",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN039", "NN003", "NN004"]
+  },
+  {
+    "maTrieuChung": "TC109",
+    "tenTrieuChung": "Máy tính không thể kết nối với thiết bị Bluetooth khi đã kết nối trước đó",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN046", "NN047", "NN006"]
+  },
+  {
+    "maTrieuChung": "TC110",
+    "tenTrieuChung": "Máy tính không thể nhận diện thiết bị USB sau khi cập nhật hệ điều hành",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN003", "NN006", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC111",
+    "tenTrieuChung": "Máy tính không thể mở file PDF hoặc tài liệu văn phòng",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC112",
+    "tenTrieuChung": "Máy tính không thể kết nối với thiết bị mạng LAN sau khi thay đổi địa chỉ IP",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC113",
+    "tenTrieuChung": "Máy tính bị dừng khi khởi động phần mềm diệt virus",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN004", "NN003", "NN050"]
+  },
+  {
+    "maTrieuChung": "TC114",
+    "tenTrieuChung": "Máy tính không thể nhận diện ổ đĩa khi khởi động lại",
+    "maPhanLoai": "PL004",
+    "maNguyenNhan": ["NN053", "NN039", "NN003"]
+  },
+  {
+    "maTrieuChung": "TC115",
+    "tenTrieuChung": "Máy tính không thể kết nối mạng khi khởi động lại",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059", "NN039"]
+  },
+  {
+    "maTrieuChung": "TC116",
+    "tenTrieuChung": "Máy tính không nhận diện thiết bị ngoại vi khi cắm vào USB",
+    "maPhanLoai": "PL014",
+    "maNguyenNhan": ["NN006", "NN047", "NN046"]
+  },
+  {
+    "maTrieuChung": "TC117",
+    "tenTrieuChung": "Máy tính không thể mở trang web khi kết nối qua cáp Ethernet",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN005", "NN047", "NN059"]
+  },
+  {
+    "maTrieuChung": "TC118",
+    "tenTrieuChung": "Máy tính không thể cài đặt lại hệ điều hành từ đĩa",
+    "maPhanLoai": "PL019",
+    "maNguyenNhan": ["NN003", "NN004", "NN039"]
+  }
+]
